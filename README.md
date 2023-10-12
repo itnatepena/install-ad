@@ -53,7 +53,7 @@ Now, it's time to install Active Directory on the domain controller VM:
 </p>
 
 <p>
-After installation, promote the server to a domain controller by clicking on the warning sign in the top right corner of Server Manager and selecting "Promote this server to a domain controller." Configure a new forest with a domain name (e.g., "ernestotest.com"), set a domain password, and complete the setup.
+After installation, promote the server to a domain controller by clicking on the warning sign in the top right corner of Server Manager and selecting "Promote this server to a domain controller." Configure a new forest with a domain name (e.g., "natepena.com"), set a domain password, and complete the setup.
 </p>
 
 <h2>Important Note</h2>
