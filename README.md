@@ -58,4 +58,4 @@ After installation, promote the server to a domain controller by clicking on the
 
 <h2>Important Note</h2>
 
-When logging into the domain controller VM via Remote Desktop Connection, remember to log in within the context of the domain. For example, use "natepena.com\labuser" or, in my case, "natepena.com\labuser." Now that Active Directory is in place, it sets the stage for future configurations, and the client VM can be seamlessly joined to the created domain.
+When logging into the domain controller VM via Remote Desktop Connection, remember to log in within the context of the domain. For example, use "natepena.com\someuser" or, in my case, "natepena.com\labuser." Now that Active Directory is in place, it sets the stage for future configurations, and the client VM can be seamlessly joined to the created domain.
