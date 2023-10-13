@@ -1,3 +1,6 @@
+![image](https://github.com/itnatepena/install-ad/assets/147539410/5b97511d-7550-48c8-aca5-949d6097c8e2)
+
+
 <h1>Deploying Active Directory in Azure</h1>
 This guide outlines the process I followed to set up Active Directory in an Azure environment, serving as the groundwork for future projects. I'm utilizing two Azure Virtual Machines, both residing on the same virtual network (vnet). This specific project focuses on configuring the first VM as the domain controller, while the second VM will join this domain in a future lab.
 
