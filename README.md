@@ -79,6 +79,8 @@ After installation, promote the server to a domain controller by clicking on the
 
 ![image](https://github.com/itnatepena/install-ad/assets/147539410/39edc380-c79d-40e7-b3f5-4f016249f7d4)
 
+Congrats, at this point, you should have Active Directory installed. 
+You can <a href="https://github.com/itnatepena/configure-ad">click here</a> to continue on to my Active Directory Configurations project.
 
 </p>
 
