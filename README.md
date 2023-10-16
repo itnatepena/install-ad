@@ -4,16 +4,17 @@
 <h1>Deploying Active Directory in Azure</h1>
 This guide outlines the process I followed to set up Active Directory in an Azure environment, serving as the groundwork for future projects. I'm utilizing two Azure Virtual Machines, both residing on the same virtual network (vnet). This specific project focuses on configuring the first VM as the domain controller, while the second VM will join this domain in a future lab.
 
-<h2>Environments and Technologies Used</h2>
+## Project Summary
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
+This guide outlines the process of setting up Active Directory in an Azure environment, laying the groundwork for future projects. The key components of this project include the following:
 
-<h2>Operating Systems Used</h2>
+- **Languages Used:** N/A (This project focuses on Azure configuration).
+- **Environments Used:** Azure (Virtual Machines/Compute).
+- **Technology/Applications/Services Used:** Microsoft Azure, Remote Desktop, Active Directory Domain Services.
 
-- Windows Server 2022
-- Windows 10 Pro (21H2)
+## Technologies Used
+
+- **Operating Systems:** Windows Server 2022, Windows 10 Pro (21H2).
 
 <h2>Installation Steps</h2>
 
