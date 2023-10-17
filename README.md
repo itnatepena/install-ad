@@ -8,13 +8,13 @@ This guide outlines the process I followed to set up Active Directory in an Azur
 
 This guide outlines the process of setting up Active Directory in an Azure environment, laying the groundwork for future projects. The key components of this project include the following:
 
-- **Languages Used:** N/A (This project focuses on Azure configuration).
+
 - **Environments Used:** Azure (Virtual Machines/Compute).
 - **Technology/Applications/Services Used:** Microsoft Azure, Remote Desktop, Active Directory Domain Services.
 
 ## Technologies Used
 
-- **Operating Systems:** Windows Server 2022, Windows 10 Pro (21H2).
+- **Operating Systems:** Windows Server 2022, Windows 10 Pro.
 
 <h2>Installation Steps</h2>
 
